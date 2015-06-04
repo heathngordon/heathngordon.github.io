@@ -1,20 +1,22 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heather&#39;s Site</title>
-    <atom:link href="http://heathngordon.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://heathngordon.com/</link>
-    <description>Just another example of an animal obsessed, bird watching, young author.</description>
-    <pubDate>Thu, 04 Jun 2015 16:51:22 -0500</pubDate>
-    
+    <title>{{ site.theme.title | xml_escape }}</title>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <description>{{ site.theme.description | xml_escape }}</description>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    {% for post in site.posts limit:15 %}
       <item>
-        <title>Llamas are Minkeys</title>
-        <link>http://heathngordon.com/2015/06/02/llamas-are-minkeys.html</link>
-        <guid isPermaLink="true">http://heathngordon.com/2015/06/02/llamas-are-minkeys.html</guid>
-        <description>&lt;p&gt;Guinea pigs like to ride llamas because it makes them feel all tall and powerful over the rest of their tiny tiny relatives.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Jun 2015 00:00:00 -0500</pubDate>
+        <title>{{ post.title | xml_escape }}</title>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       </item>
-    
+    {% endfor %}
   </channel>
 </rss>

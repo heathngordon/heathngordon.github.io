@@ -1,0 +1,73 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://heathngordon.com" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Heather's Site
+  avatar: http://3.bp.blogspot.com/-8Jm3bNrCuEk/VOezkvRo2NI/AAAAAAAABm4/rcoEQPxvjQo/s1600/IMG_0667.JPG
+  gravatar: # Email MD5 hash
+  description: "Just another example of an animal obsessed, bird watching, young author." # used by search engines
+
+  # Header and footer text
+  header_text: >
+     <p>"Leave nothing but footprints. Take nothing but pictures. Kill nothing but time." -John Kayak</p>
+
+
+     
+  header_text_feature_image: http://1.bp.blogspot.com/-a_cpml7dmyI/VOJVN0_1FyI/AAAAAAAABVk/0W50Zvk34sI/s1600/IMG_0484.JPG
+  footer_text: 
+   
+  # Icons
+  rss: false
+  email_address: "heather@heathngordon.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "heathngordon"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: 
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
