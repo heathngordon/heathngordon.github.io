@@ -16,8 +16,8 @@ theme:
 
 
      
-  header_text_feature_image: https://lh3.googleusercontent.com/JHLg-khW15KQmMfeu_7D46dOVn3WI0OfzT1Ew3sUIV8=w834-h625-no
-  footer_text: 
+  header_text_feature_image: "https://lh3.googleusercontent.com/JHLg-khW15KQmMfeu_7D46dOVn3WI0OfzT1Ew3sUIV8=w834-h625-no
+  footer_text" : 
    
   # Icons
   rss: false
@@ -40,6 +40,7 @@ theme:
   twitter: 
   wordpress:
   youtube:
+  penflip: "https://www.penflip.com/projects"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
