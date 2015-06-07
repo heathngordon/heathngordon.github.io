@@ -6,7 +6,7 @@ url: "http://heathngordon.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Heather's Site
-  avatar: "https://lh3.googleusercontent.com/qMuzIQMucVO3IRw6ICfBSeyx64GFsHw5-pHsmOLFnY0=w834-h625-no"
+  
   gravatar: # Email MD5 hash
   description: "Just another example of an animal obsessed, bird watching, young author." # used by search engines
 
