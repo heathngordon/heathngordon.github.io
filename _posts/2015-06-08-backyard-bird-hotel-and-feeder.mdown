@@ -2,13 +2,43 @@
 layout: post
 title: The Backyard Bird Hotel (and Feeder)
 ---
+<style>
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+</style>
 
 <br>I recently put up a new feeder in our front yard because our backyard was being swamped by a flocks of various sparrows and the occasional Northern Cardinal. So this morning, I was sitting happily on my bed, working, when I noticed a large amount of birds that kept landing on my windowsill. I thought it was odd, yes, but then I chanced a look outside, and was quite amazed at the amount of birds that were out there. I quickly grabbed my camera and ran to get a better view of the feeder. I counted at least 31 birds! They lined the tree where the feeder was hanging, several were flying their way to the food, and the ground beneath was almost writhing with tiny birds searching for fallen seeds. </br>
 
 <br>So here are a few pictures of the chaos that ensued (a lot of them flew away from the branches when I got out my camera...)  </br>
 
-<br> <img src="https://lh3.googleusercontent.com/WIvzodUd0jSOPeTBaMdnCQf3GBMXrw_N2uwCDhOPDQU=w892-h669-no" style="width:304px;height:228px;">  </br>
-<br> Two Eurasian Tree Sparrows (<i>passer montanus</i>) and a female House Sparrow (<i>passer domesticus</i>). </br> 
+<br> <div class="img">
+ <a> <img src="https://lh3.googleusercontent.com/WIvzodUd0jSOPeTBaMdnCQf3GBMXrw_N2uwCDhOPDQU=w892-h669-no" style="width:304px;height:228px;"> </a>
+ div class="desc">Two Eurasian Tree Sparrows (<i>passer montanus</i>) and a female House Sparrow (<i>passer domesticus</i>)</div> </br>
+
 
 <br> <img src="https://lh3.googleusercontent.com/MZGN0VA07Wp8cDrkunjh1hONcbLYrZRoxXk5NScO8Qc=w892-h669-no" style="width:304px;height:228px;"> </br> 
 
