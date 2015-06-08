@@ -35,37 +35,37 @@ div.desc {
 
 <br>So here are a few pictures of the chaos that ensued (a lot of them flew away from the branches when I got out my camera...)  </br>
 
-<div class="img">
+<br> <div class="img">
  <a target="_blank" href="feeder birds"><img src="https://lh3.googleusercontent.com/WIvzodUd0jSOPeTBaMdnCQf3GBMXrw_N2uwCDhOPDQU=w892-h669-no" alt="feeder birds" width="304px" height="228px"></a>
  <div class="desc">Two Eurasian Tree Sparrows (<i>passer montanus</i>) and a female House Sparrow (<i>passer domesticus</i>)</div>
-</div>
-<div class="img">
+</div> </br>
+<br> <div class="img">
 
  <a target="_blank" href="feeder birds"> <img src="https://lh3.googleusercontent.com/MZGN0VA07Wp8cDrkunjh1hONcbLYrZRoxXk5NScO8Qc=w892-h669-no" alt="Feeder Birds" width="304px" height="228px"></a>
 
 <div class="desc"> More House Sparrows and Eurasian Tree Sparrows.</div>
 
-</div>
+</div></br>
 
-<div class="img">
+<br><div class="img">
  <a target="_blank" href="https://lh3.googleusercontent.com/l9PBfQNIPFtYybwxlzTEuHddbH4q4nrs3tNqfxewAXw=w892-h669-no"><img src="https://lh3.googleusercontent.com/l9PBfQNIPFtYybwxlzTEuHddbH4q4nrs3tNqfxewAXw=w892-h669-no" alt="Feeder Birds" width="304px" height="228px"></a>
  <div class="desc">The chaos of this feeder...</div>
-</div>
+</div></br>
  
-<div class="img">
+<br><div class="img">
  <a target="_blank" href="Young Feeder birds"><img src="https://lh3.googleusercontent.com/Mq1Q592Gp9eR3mgLQwQv3mRjzvwwubsomBi_t6pLKs8=w892-h669-no" alt="Young Feeder Birds" width="304px" height="228px"></a>
  <div class="desc">A young Eurasian Tree Sparrow and an adult, with a young female House Sparrow.</div>
-</div>
+</div></br>
 
-<div class="img">
+<br><div class="img">
  <a target="_blank" href="https://lh3.googleusercontent.com/lx3Pl8eaD7QX2-okhV3uuO5y-ReMyakRGipFHi5hTqM=w892-h669-no" style="width:304px;height:228px;"><img src="https://lh3.googleusercontent.com/lx3Pl8eaD7QX2-okhV3uuO5y-ReMyakRGipFHi5hTqM=w892-h669-no" style="width:304px;height:228px;" alt="Feeder Birds" width="304px" height="228px"></a>
  <div class="desc">There are at least fourteen different birds in the grass below the feeder... and that wasn't even all of them. Now imagine them all moving around, searching for fallen seed. I tell you, the ground was <i>moving</i>.</div>
-</div>
+</div></br>
 
-<div class="img">
+<br><div class="img">
  <a target="_blank" href="https://lh3.googleusercontent.com/_nb9qkXz7Jwg5Sw7a-uiFlEGz6Cy8IO1hT3fl7JA_ps=w892-h669-no"><img src="https://lh3.googleusercontent.com/_nb9qkXz7Jwg5Sw7a-uiFlEGz6Cy8IO1hT3fl7JA_ps=w892-h669-no" alt="Feeder Birds" width="304px" height="228px"></a>
  <div class="desc">Birds lining the trees... the ground... the feeder... Talk about bird heaven.</div>
-</div>
+</div></br>
 
 <br>Also, besides this, I believe I've seen a Gray Catbird (<i>dumetella carolinensis</i>) around here, so I'm off to go track it down. I was listening to its calls this morning, attempting to become familiar with them, when I heard an echo outside. So I'm certain that it's here... it just needs to come out for the camera. </br>  
 
