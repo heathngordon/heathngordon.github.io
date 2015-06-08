@@ -37,7 +37,7 @@ div.desc {
 
 <br> <div class="img">
  <a> <img src="https://lh3.googleusercontent.com/WIvzodUd0jSOPeTBaMdnCQf3GBMXrw_N2uwCDhOPDQU=w892-h669-no" style="width:304px;height:228px;"> </a>
- div class="desc">Two Eurasian Tree Sparrows (<i>passer montanus</i>) and a female House Sparrow (<i>passer domesticus</i>)</div> </br>
+ div class="Two Eurasian Tree Sparrows (<i>passer montanus</i>) and a female House Sparrow (<i>passer domesticus</i>)"></div> </br>
 
 
 <br> <img src="https://lh3.googleusercontent.com/MZGN0VA07Wp8cDrkunjh1hONcbLYrZRoxXk5NScO8Qc=w892-h669-no" style="width:304px;height:228px;"> </br> 
