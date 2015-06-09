@@ -10,7 +10,7 @@ div.img {
     border: 1px solid #000000;
     height: auto;
     width: 50%;
-    float: left;
+    float: center;
     text-align: center;
 }	
 
