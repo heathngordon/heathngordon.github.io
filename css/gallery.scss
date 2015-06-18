@@ -1,60 +1,45 @@
-@import "compass/css3";
-
-@import url('http://fonts.googleapis.com/css?family=Open+Sans');
-
-* {
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400italic);
+* { margin: 0; }
+body { 
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font: 14px/1 'Open Sans', sans-serif;
-  color: #555;
-  background: #e5e5e5;
-}
-
-.gallery {
-  width: 304px;
-  margin: 0 auto;
-  padding: 5px;
-  background: #fff;
-  box-shadow: 0 1px 1px rgba(0,0,0,.1);
-}
-
-.gallery > div {
+  font-family: Source Sans Pro, sans-serif; 
+} 
+dl#simple-gallery { 
   position: relative;
-  float: left;
-  padding: 5px;
+  background: #222;
+  font-size: 0;
+  padding: 3rem;
+  padding-bottom: 8rem;
 }
-
-.gallery > div > img {
-  width: 228px;
-  transition: .1s transform;
-  transform: translateZ(0); /* hack */
+dl#simple-gallery dt{
+  width: 12.5%;
+  min-width: 50px;
+  cursor: pointer;
 }
-
-.gallery > div:hover {
-  z-index: 1;
+dl#simple-gallery dt img { 
+  width: 100%;
+  height: auto;
 }
-
-.gallery > div:hover > img {
-  transform: scale(1.8,1.8);
-  transition: .3s transform;
+dl#simple-gallery dt:hover+dd, dl#simple-gallery dt:focus+dd { 
+  opacity:1;
 }
-
-.cf:before, .cf:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-
-.cf:after {
-  clear: both;
-}
-
-h1 {
-  margin: 40px 0;
-  font-size: 24px;
+dl#simple-gallery dd { 
+  position: absolute;
+  top: 3rem;
+  left: 22%;
+  opacity: 0;
+  transition: .7s opacity;
   text-align: center;
+  font-size: 1.4rem;
+  font-style: italic;
+  color: #fff;
+  padding-left: 0;
+  width: 40%;
+}
+dl#simple-gallery dd img{
+  width: 100%;
+  height: auto;
+  box-shadow:0 0 8px rgba(0,0,0,0.3);
+  display:block;
+  margin-bottom: 1rem;
 }
