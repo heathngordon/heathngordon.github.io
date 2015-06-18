@@ -15,7 +15,7 @@ body {
 }
 
 .gallery {
-  width: 640px;
+  width: 304px;
   margin: 0 auto;
   padding: 5px;
   background: #fff;
@@ -29,7 +29,7 @@ body {
 }
 
 .gallery > div > img {
-  width: 200px;
+  width: 228px;
   transition: .1s transform;
   transform: translateZ(0); /* hack */
 }
