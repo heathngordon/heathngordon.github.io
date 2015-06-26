@@ -39,7 +39,7 @@ The Barred Owl pair comes to the backyard every couple of days, hoping for somet
 
 "The Sweater Bird", as my sister calls this Yellow-Shafted Northern Flicker. He and his mate can be found rummaging around the neighbor's pond or in the garden.
 
-<img src="https://photos.google.com/photo/AF1QipN5osxihizLx_Rynm6fJCQclRCjQtXyZQQXQRk6" alt="Mourning Doves" style="width:304px;height:228px;">
+<img src="https://lh3.googleusercontent.com/OSJ5H7wlXi14J3EhpHQM9TvnPstuBdsI3SCmwu6MJPA=w892-h669-no" alt="Mourning Doves" style="width:304px;height:228px;">
 
 This is Revlon and Rachelle, visiting the site of their first clutch. This first one was raided by (probably) blue jays, as was the second one. So far their third is safe.
 
