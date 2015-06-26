@@ -19,6 +19,10 @@ On this blog, you'll find a collection of all my birding pictures (and a few mis
 
 This is Libby, the one animal that's been there every year of my life except one... always watching... whether it be from behind her eyelids, curled up in some blankets on my bed, or from the yard. She's gone through a lot, this one, but she's still going steady.
 
+<img src="https://lh3.googleusercontent.com/Wig1yIzTv12MTANa5UuWRRWlAGvyk1-HeMVxCM9GNQE=w577-h607-no" alt="Richard the Lionheart" style="width:304px;height:300px;">
+
+Richard the Lionheart, the first to wake up in the morning and start the dawn chorus, and the last to go to sleep at night, sometimes announcing his presence as late as midnight with his familiar "ri-ri-richard!". But he's a good protector, always singing from his favorite spot, the tallest tree in a small strip of forest by the side of the house.
+
 <img src="https://lh3.googleusercontent.com/Ul5nnsWPsaXV63qu_6NMKWRGN3qX_GbAtxR1JiUnlBw=w502-h669-no" alt="Adamine, Raymond's mate" style="width:304px;height:300px;">
 
 This is Adamine, Raymond's mate. She's quite a curious little chipmunk, always scavaging under the bird feeder for rejected seeds while Raymond goes and gets the food straight from the source: the bag of bird seed.
