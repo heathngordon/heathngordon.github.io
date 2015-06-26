@@ -19,7 +19,7 @@ On this blog, you'll find a collection of all my birding pictures (and a few mis
 
 This is Libby, the one animal that's been there every year of my life except one... always watching... whether it be from behind her eyelids, curled up in some blankets on my bed, or from the yard. She's gone through a lot, this one, but she's still going steady.
 
-<img src="https://lh3.googleusercontent.com/Ul5nnsWPsaXV63qu_6NMKWRGN3qX_GbAtxR1JiUnlBw=w502-h669-no" alt="Adamine, Raymond's mate" style="width:304px;height:235px;">
+<img src="https://lh3.googleusercontent.com/Ul5nnsWPsaXV63qu_6NMKWRGN3qX_GbAtxR1JiUnlBw=w502-h669-no" alt="Adamine, Raymond's mate" style="width:304px;height:245px;">
 
 This is Adamine, Raymond's mate. She's quite a curious little chipmunk, always scavaging under the bird feeder for rejected seeds while Raymond goes and gets the food straight from the source: the bag of bird seed.
 
