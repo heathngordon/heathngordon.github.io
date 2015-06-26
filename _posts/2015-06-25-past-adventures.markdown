@@ -18,13 +18,15 @@ There was one morning that I got up fairly early (6:00 am or so) in a successful
 <img src="https://lh3.googleusercontent.com/3E00dmjnB_XQ0PvQDwYNwJtC6FA5bEKNZmM5Kfzdh2U=w892-h669-no" alt="Eurasian Tree Sparrows" style="width:304px;height:228px;">
 
 <img src="https://lh3.googleusercontent.com/EHYcivA33ugAl6PV2VrpuxvCR2qLkJoYqZQiBOHBBQQ=w892-h669-no" alt="Raymond, our resident chipmunk" style="width:304px;height:228px;">
-Rufous, our resident chipmunk. He quite enjoys bird seed. I always leave a little pile of it for him at the base of the step, where he likes to hide.
+
+Raymond, our resident chipmunk. He quite enjoys bird seed. I always leave a little pile of it for him at the base of the step, where he likes to hide.
 
 <img src="https://lh3.googleusercontent.com/JpCkF2QvHzksfDaRu7i_LHRTYm2_hrslmEbXtyIyDwA=w892-h669-no" alt="Female House Sparrow" style="width:304px;height:228px;">
 
 <img src="https://lh3.googleusercontent.com/bBwL5Wlz7Ubqd3uHXGuyfba0BqEbMnhy8sYs1K3DQPY=w892-h669-no" alt="Grackles" style="width:304px;height:228px;">
 
 <img src="https://lh3.googleusercontent.com/UE0vSBj5LpUEu72Zc-DEm0lBM3dOLGirn4t3nm1YEyo=w892-h669-no" alt="Tilla, one of our grey squirrels" style="width:304px;height:228px;">
+
 This is Tilla, one of our gray squirrels. She was obviously young, so I'm thinking she might have come from Brutus' brood, one of our other resident squirrels, mainly because of the amount of red on her. 
 
 <img src="https://lh3.googleusercontent.com/MPbQo_1FNB4skT0gpdSBlvnH6KS8vwviMibRG5fZcm0=w892-h669-no" alt="Tilla investigating the feeder" style="width:304px;height:228px;">
@@ -33,7 +35,7 @@ This is Tilla, one of our gray squirrels. She was obviously young, so I'm thinki
 
 So much for squirrel-proof feeders...
 
-<img src="hhttps://lh3.googleusercontent.com/rLefbVrMETef98YJZagq7Entpq7LYnBTay76AlW_pGw=w892-h669-no" alt="Tufted Titmouse" style="width:304px;height:228px;">
+<img src="https://lh3.googleusercontent.com/DIWslCa4fxrEsGC0JW26d-VoFxHntTkmkaHFPEOwEno=w892-h669-no" alt="Tufted Titmouse" style="width:304px;height:228px;">
 
 Tufted Titmouse viewing the prospects of the feeder after Tilla fell off. He brought a few friends with him as well.
 
@@ -47,17 +49,20 @@ Later that week, in a break from Mr. Bill, our barred owl pair came hunting. The
 The next evening, I went on a walk, looking for some birds, just scouting out more of the area. 
 
 <img src="https://lh3.googleusercontent.com/FU8tu8RjNbkPYR61MhnhDjsdCOjjawNebDePCeAMw7g=w892-h669-no" alt="Chipping Sparrow" style="width:304px;height:228px;">
+
 A curious Chipping Sparrow.
 
 <img src="https://lh3.googleusercontent.com/RFg28lV-Kif6EP_Lutrcj1zj-d7Gy83FM0rTlYbjcHU=w892-h669-no" alt="Chipping Sparrow" style="width:304px;height:228px;">
 
 <img src="https://lh3.googleusercontent.com/fB29sGxG7RmqoyhY9q-hrBL1gtLEdWmEypG9JQoBYaA=w892-h669-no" alt="Singing Eurasian Tree Sparrow" style="width:304px;height:228px;">
+
 Proud Eurasian Tree Sparrow
 
 <img src="https://lh3.googleusercontent.com/I9WGdy6Qj5Ewb2Jj3var5vXtrOpy5ZwqLIxp5SQEWaU=w892-h669-no" alt="Male Robin" style="width:304px;height:228px;">
 Male Robin
 
 <img src="https://lh3.googleusercontent.com/TeiGVOFvymQUwqmo_N3YwDFwMjSylUzAxwmoxP4L7ww=w892-h669-no" alt="Flicker" style="width:304px;height:228px;">
+
 A flicker's silhouette against the evening sky.
 
 I mentioned that I've been looking for a catbird, because I know I've been hearing them. Well, since then, I've seen at least three of them. Then, today, as I was uploading my pictures, I came across this lovely bird that I'd seen around and questionably identified it as related to a brown headed cowbird. 
