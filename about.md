@@ -7,9 +7,9 @@ feature-img: "https://lh3.googleusercontent.com/oVsNUxuBcmh0Jkq7o2UGc6V6vt_X8oqI
 
 <h1> The Author </h1>
 
-Random animal facts? Birds? Stories? Drawing? If there's any of that (especially the birds), then I'm hooked. 
+Animals? Birds? Stories? Drawing? Fruit? If there's any of that (especially the fruit), then I'm hooked. 
 
-The name's Heather. Animals, birds, writing stories, reading, and running, just to name a few of my hobbies that, when combined, make quite an enjoyable adventure through life.
+My name is Heather. 
 
 On this blog, you'll find a collection of all my birding pictures (and a few miscellanious others) taken with my Canon PowerShot SX520 HS, a collaboration of my stories (mostly unfinished, unrefined ideas), and some random thoughts my brain.
 
