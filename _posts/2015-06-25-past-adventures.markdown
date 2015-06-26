@@ -59,6 +59,7 @@ A curious Chipping Sparrow.
 Proud Eurasian Tree Sparrow
 
 <img src="https://lh3.googleusercontent.com/I9WGdy6Qj5Ewb2Jj3var5vXtrOpy5ZwqLIxp5SQEWaU=w892-h669-no" alt="Male Robin" style="width:304px;height:228px;">
+
 Male Robin
 
 <img src="https://lh3.googleusercontent.com/TeiGVOFvymQUwqmo_N3YwDFwMjSylUzAxwmoxP4L7ww=w892-h669-no" alt="Flicker" style="width:304px;height:228px;">
