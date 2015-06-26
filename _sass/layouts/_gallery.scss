@@ -1,21 +1,82 @@
-body {
-  margin: auto;
-  background: #F2F5E9;
-  width: 347px;
-  font-family: "Arial"
-}
- {
-    padding:0;
-}
-gallery  {
-  display: inline-block;
-  opacity:1;
-  -webkit-transition: opacity .5s ease-in-out;
-  -moz-transition: opacity .5s ease-in-out;
-  -o-transition: opacity .5s ease-in-out;
-  transition: opacity .5s ease-in-out;
+// body {
+//   margin: auto;
+//   background: #F2F5E9;
+//   width: 347px;
+//   font-family: "Arial"
+// }
 
+.overlay {
+  display: none;
+  position: fixed;
+  z-index: 10;
+  background: rgba(0,0,0,.8);
+  width: 100%;
+  height: 100%; 
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  margin: 0px;
+  padding: 0px;
+  
+  .big-pic {
+    background: white;
+    border-radius: 5px; 
+    width: 60%;
+    max-height: 90%;
+    max-width: 715px;
+    margin: 50px auto;
+    padding: 10px 10px 30px;
+    
+    img {
+      max-height:100%;
+      max-width:100%;
+    }
+    
+    .photo-title {
+      font-family: Arial;
+      margin-top: 1em;
+      text-align: left;
+    }
+  }
+  
+  .close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    display: block;
+    cursor: pointer;
+    font-family: Arial;
+  }
 }
+
+.gallery {
+  margin: 25px 25px;
+  
+  .picture-container {
+    width: 200px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 10px;
+
+
+    .picture {
+      width: 100%;
+      cursor: pointer;
+      display: block;
+      transition: all 0.5s ease;
+
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+}
+
 label {
   cursor: pointer;
   color: #fff;
@@ -29,8 +90,4 @@ img {
   padding: 5px;
   border: 1px solid #ccc;
 
-}
-/*Select Categorie*/  
-input#select-animals:checked ~ .gallery li:not(.animals-item), input#select-lightning:checked ~ .gallery li:not(.lightning-item), input#select-desert:checked ~ .gallery li:not(.desert-item) {
-  opacity: 0.1;
 }
