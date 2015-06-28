@@ -51,5 +51,8 @@ This is Revlon and Rachelle, visiting the site of their first clutch. This first
 
 "The Flock", comprised of at least twenty Eurasian Tree Sparrows, spends their time hoarding the feeders, like the good hobbits they are.
 
+<img src="https://lh3.googleusercontent.com/lTqfjpXdtnY0OgzLkjgFEcyk7nOeyR0kESeasNMbDjw=w683-h513-no" alt="Chanook" style="width:304px;height:228px">
+
+Chanook, a male House Finch. He and his mate, Cherry, had a nest a few years ago, but their nestlings were stolen by blue jays (probably).
 
 
