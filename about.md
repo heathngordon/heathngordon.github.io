@@ -55,4 +55,9 @@ This is Revlon and Rachelle, visiting the site of their first clutch. This first
 
 Chanook, a male House Finch. He and his mate, Cherry, had a nest a few years ago, but their nestlings were stolen by blue jays (probably).
 
+<img src="https://lh3.googleusercontent.com/c2KQQu3cLXBRzDZROIpycnhaL5GI9mXfKzeqrKpg3MM=w683-h513-no" alt="Todd" style="width:304px;height:228px">
+
+Todd the Fox with his mate, Vixey. (Named after the foxes in Fox and the Hound.)
+
+
 
