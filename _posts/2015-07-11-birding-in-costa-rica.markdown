@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Birding in Costa Rica
+---
 
 The trip to Costa Rica was awesome! While I wasn't there primarily for birding, I did manage to snap a few pictures of birds. 
 
