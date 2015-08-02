@@ -36,9 +36,10 @@ And last, but not least, there was a friendly female Mallard that was very inter
 
 <img src="https://lh3.googleusercontent.com/Su6LC5j4iTdn_BEm95eHQeN1pFUskoXW186oQV4kswI=w683-h513-no" alt="Female Mallard" style="width:304px;height:228px;">
 
-Eventually, she went over and joined a few of them that were sleeping on the rocks.
 
-<img src="https://lh3.googleusercontent.com/WDh5m6J4NTTsb7Wh1w2YFXIuyU_Ck0vnYIiwDc8U8Ag=w683-h513-no" alt="Female Mallard" style="width:304px;height:228px;">
+<img src="https://lh3.googleusercontent.com/WDh5m6J4NTTsb7Wh1w2YFXIuyU_Ck0vnYIiwDc8U8Ag=w683-h513-no" alt="Male Mallards in Eclipse" style="width:304px;height:228px;">
+
+Some male mallards in eclipse.
 
 That's all for now!
 
