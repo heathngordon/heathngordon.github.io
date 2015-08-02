@@ -41,6 +41,10 @@ A Great Kiskadee. These were all over Costa Rica, especially in San Jose, but al
 
 Another shot of him, showing his second black band and the yellow crown.
 
+<img src="https://lh3.googleusercontent.com/Z5FAvWwYxaZb5Lp2BICod9r4nDSyj9PEBPjLYZ9VIiU=w683-h513-no" alt="Black Vulture" style="width:304px;height:228px;">
+
+Black Vultures were also common in both the city and the mountains.
+
 In the mountains of Alajuela, there were several different birds, including a multitude of hummingbirds, especially at a nature reserve that we vistited.
 
 <img src="https://lh3.googleusercontent.com/0-a1dgjmrQdCxt1fFJMsQlcOSSfQYjSiPuayKJ1wO9M=w892-h669-no" alt="Horned Lark, ammophilia" style="width:304px;height:228px;">
@@ -85,7 +89,34 @@ This was the only picture I could snap of the Violet Sabrewing. Like most hummin
 
 This is by far and away the best picture of a hummingbird I got in Costa Rica. It was sitting on this bench, licking up some dropped sugar water, and yet I have absolutely no idea what it is. 
 
+<img src="https://lh3.googleusercontent.com/gouMDQPU4VEBQngINdTXmyK6c3RoZ1z-iuFMtRORAt0=w683-h513-no" alt="A Crested Guan" style="width:304px;height:228px;">
+
+This Crested Guan wasn't very photogenic. But he was huge. And warrented a mention.
+
+<img src="https://lh3.googleusercontent.com/QkpqpZJSjTc9_3Fh7SpXa5tXE2mwUmrrclCcOEn1UCk=w892-h669-no" alt="A Crested Guan" style="width:304px;height:228px;">
+
+And, of course, there were the few that I didn't see in enough detail to identify. 
+
+<img src="https://lh3.googleusercontent.com/QrradkT7dIlLlJokBUK3IXl5PAVD3RHDZF4ETGSn_h8=w892-h669-no" alt="Black and white bird" style="width:304px;height:228px;">
+
+<img src="https://lh3.googleusercontent.com/aaLt0T5PzEVUy-HO6OQWyD6cmsQ3unu_Wlgtu54xDao=w892-h669-no" alt="Black and white bird" style="width:304px;height:228px;">
+
+<img src="https://lh3.googleusercontent.com/KiMDcQoF5n--6lSbS1uwTyFw9DLPOeRqaKaFOQMeAgM=w892-h669-no" alt="Yellow/white/black/grey" style="width:304px;height:228px;">
+
+This bird was quite the noisemaker, and it didn't want to stay still very long, but it very much liked going upside down on branches. 
+
+<img src="https://lh3.googleusercontent.com/SpDsiCuLAeO9C1UqMzEx2TkcW6TjKZ86AuT3RQ6jgDs=w892-h669-no" alt="Yellow/white/black/grey" style="width:304px;height:228px;">
+
+After we walked around a bit, they let us hold toucans! They had two varieties, one with a rainbow beak, and the other with the more general brown and yellow beak. 
+
+<img src="https://lh3.googleusercontent.com/fzpbT8AkWbAxw2X2uGUb851vweC9wplRvZHYTPWrKwo=w892-h669-no" alt="Rainbow toucan" style="width:304px;height:228px;">
+
+<img src="https://lh3.googleusercontent.com/aAIDbQ8uUxmpR2quk7pX2Gv290ok5MwL4Gitf_5e878=s669-no" alt="Brown beak toucan" style="width:304px;height:228px;">
+
+
 So there's that. I'll attempt to post other pictures of non-birds later.
+
+
 
 
 
