@@ -30,16 +30,16 @@ Also, the hummingbird feeder is at last aquiring proper guests (not woodpeckers 
 
 <img src="https://lh3.googleusercontent.com/HHfS8ufYcWjgip75IuXUbZtxflHZaoDFBABuL_uCHyU=w683-h513-no" alt="Hummingbird at the Feeder" style="width:304px;height:228px;">
 
-And last, but not least, there was a friendly female Mallard that was very interested in my toe at a park I went to a few days ago. She got pretty close to me, and then decideded that there wasn't anything tasty near me.
+And last, but not least, there was a friendly male Mallard (in eclipse) that was very interested in my toe at a park I went to a few days ago. He got pretty close to me, and then decideded that there wasn't anything tasty near me.
 
-<img src="https://lh3.googleusercontent.com/YlP7MEktu2Fl2NE4gtFOkMwEVUPw9Pmb6yrGfA8awn4=w683-h513-no" alt="Female Mallard" style="width:304px;height:228px;">
+<img src="https://lh3.googleusercontent.com/YlP7MEktu2Fl2NE4gtFOkMwEVUPw9Pmb6yrGfA8awn4=w683-h513-no" alt="Male Mallard" style="width:304px;height:228px;">
 
-<img src="https://lh3.googleusercontent.com/Su6LC5j4iTdn_BEm95eHQeN1pFUskoXW186oQV4kswI=w683-h513-no" alt="Female Mallard" style="width:304px;height:228px;">
+<img src="https://lh3.googleusercontent.com/Su6LC5j4iTdn_BEm95eHQeN1pFUskoXW186oQV4kswI=w683-h513-no" alt="Male Mallard" style="width:304px;height:228px;">
 
+Eventually, he went over and joined his fellow males on the rocks.
 
 <img src="https://lh3.googleusercontent.com/WDh5m6J4NTTsb7Wh1w2YFXIuyU_Ck0vnYIiwDc8U8Ag=w683-h513-no" alt="Male Mallards in Eclipse" style="width:304px;height:228px;">
 
-Some male mallards in eclipse.
 
 That's all for now!
 
