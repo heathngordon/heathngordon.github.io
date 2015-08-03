@@ -54,7 +54,7 @@ A Horned Lark, ammophilia, I think. I don't have a better picture mainly because
 
 <img src="https://lh3.googleusercontent.com/2fMrIr1Pr_SmoArXkRK4MB1lqHCoqrkH_6Kaq-z5H9g=w892-h669-no" alt="Boat Tailed Grackle" style="width:304px;height:228px;">
 
-A Boat Tailed Grackle.
+A Great Tailed Grackle.
 
 <img src="https://lh3.googleusercontent.com/KOCVm-SmTaF6VZuOqw2RMHhetLkS7OHD6oE--28iMlY=w892-h669-no" alt="Tree Swallows" style="width:304px;height:228px;">
 
