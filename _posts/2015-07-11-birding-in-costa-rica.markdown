@@ -95,7 +95,7 @@ This Crested Guan wasn't very photogenic. But he was huge. And warrented a menti
 
 <img src="https://lh3.googleusercontent.com/QkpqpZJSjTc9_3Fh7SpXa5tXE2mwUmrrclCcOEn1UCk=w892-h669-no" alt="A Crested Guan" style="width:304px;height:228px;">
 
-And, of course, there were the few that I didn't see in enough detail to identify. 
+A Brown Jay. 
 
 <img src="https://lh3.googleusercontent.com/QrradkT7dIlLlJokBUK3IXl5PAVD3RHDZF4ETGSn_h8=w892-h669-no" alt="Black and white bird" style="width:304px;height:228px;">
 
