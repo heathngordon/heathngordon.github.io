@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Birding Basics: September Edition
+title: September Birding Basics
 ---
 
 Along with learning about each bird of the month, we’re also going to get into some birding basics.  This article, because I’m focusing on a migratory bird, we’ll be learning about migration routes. 
