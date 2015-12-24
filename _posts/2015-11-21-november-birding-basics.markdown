@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Birding Basics October Edition
+title: Birding Basics November Edition
 ---
 
 Over the past couple of months, we’ve talked about migration and bird calls… and, well, I guess that’s just about it. Funny. I thought we would’ve said more on the subject of birds. Ah well. Point is, this month, we’re focusing on what makes a bird a bird: the feathers. For the most part, it’s fairly easy to tell the difference between two birds. Right of the bat, if I asked, you could tell me the difference between a Northern Cardinal and a Blue Jay. One is bright red and one is bright blue. It doesn’t take a genius. However, if I asked you to tell me the difference between an American Crow and a Common Raven, would you be able to tell me? I’ll even give you the benefit of the doubt and say you’re Kate, and you already know that the Common Raven is bigger, and it doesn’t live in the Midwest. But unfortunately, even if you do end up going West (or North), there’s still going to be both the American Crow and the Common Raven. 
