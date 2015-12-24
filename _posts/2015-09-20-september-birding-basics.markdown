@@ -7,7 +7,6 @@ Along with learning about each bird of the month, we’re also going to get into
 
 <img src="http://www.fws.gov/uploadedImages/Region_7/NWRS/Zone_1/Arctic/Images/flyway48w.jpg" alt="migration routes" style="width:304px;height:228px;">
 
-(http://www.fws.gov/refuge/arctic/birdmig.html)
 
 There are four major migration routes, or “flyways” that birders refer to in North America. At this time of the year, most birds are coming from the north and going south, because of the warmer weather, more food, and the breeding season.  As you can see, St. Louis is located in the Mississippi Flyway. Birds such as American Goldfinches (our bird of the month!), Bald Eagles, Fox Sparrows, and Lapland Longspurs use this flyway. But these birds obviously don’t come all at once, otherwise we’d have a problem on our hands. The skies would be full of birds. They’d probably block out the light of the sun or something. Now you ask, “But some birds don’t migrate, like robins and cardinals. They’re here all year, it seems. Why?” 
 	
