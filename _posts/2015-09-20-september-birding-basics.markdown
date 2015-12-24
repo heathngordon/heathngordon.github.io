@@ -5,7 +5,7 @@ title: Birding Basics: September Edition
 
 Along with learning about each bird of the month, we’re also going to get into some birding basics.  This article, because I’m focusing on a migratory bird, we’ll be learning about migration routes. 
 
-<img src="https://photos.google.com/search/_tra_/photo/AF1QipMdXay9v95nJtNDQ79ogcJoQIrRo96rguw37ASK" alt="migration routes" style="width:304px;height:228px;">
+<img src="http://www.fws.gov/uploadedImages/Region_7/NWRS/Zone_1/Arctic/Images/flyway48w.jpg" alt="migration routes" style="width:304px;height:228px;">
 
 (http://www.fws.gov/refuge/arctic/birdmig.html)
 
@@ -15,7 +15,7 @@ Some birds, like robins and cardinals, aren’t affected by the cold temperature
 
 So, now that we’ve gone through that explanation, let’s actually get to the bird of the month, which, as mentioned before, is the American Goldfinch. 
 
-<img src="https://photos.google.com/photo/AF1QipMnPJE9er_e5GzMv3Hl9IhuLUztCe2HFaHpsHV9" alt="goldfinch drawing" style="width:304px;height:228px;">
+<img src="https://lh3.googleusercontent.com/-uRUV26ZH1lTZiwmR5N7-4c3HWXp0Rn9J1cTvGDoKd6gXO-iCVkZs5c_Kp6c62j6GItG-p3YIYGpNqYt8-HVy9gE2E406u0kb9QL9yQMVjJ7lvFfshXVvkcMHlakeHEattIsxFo9gS0_KfKnGiUPZrqVCpbdWkygvyx9y_dhosYLhj8nedjhLNCjutGQGzSksJu0XVlYCwebOqEi0dLJJWPodceWqHVYtXffWAMaoN4JNJrCw9rxVqu5iIKSjwpH8PGLpDuz2VD765IHJb124CKmS_zOfUpOUSJNk350i3uwgSEN_djg3S0oixuI8nzjzbbT_C0rdF3pbrYZUj4bvUlIvMC89945LN3Mg4zzD90DdINp7hNIP15dccRlhRJFvWQaYYNENGoTI1dSKt_ibusGMV8HFokfiepg0jDuwPJj-lCdI6yR_dVcD3KbGZn7rpUfM0biE1b76w-2fdTnKgX0zijEBgchwLdzZ-w9Pl4Vlec4SSyhDxO8Ka3Ao2AVnwixw2tFCBQRdZRFfj93RXWGXjmThU_vm3EzHt9aKzmOQVnK2DEN-tQys_D0OPSjk9VU=w485-h646-no" alt="goldfinch drawing" style="width:304px;height:228px;">
 
 
 This bright, easily recognizable little finch can be found all over the continental United States. The breeding male (as illustrated) is the most striking, with brilliant yellow feathers, black and white wings, and a nifty little cap on his crown. The breeding female, though less striking, has its own softer gold feathers, black eyes bright with energy and cautious curiosity. These are the birds that we see. The juveniles and non-breeding winter adults are what we don’t see. 
